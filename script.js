@@ -24,7 +24,7 @@ const serviceDurations = {
 };
 
 // Número do WhatsApp para receber agendamentos
-const whatsappNumber = '12991246469';
+const whatsappNumber = '12991195044';
 
 // Elementos do DOM
 const bookingForm = document.getElementById('booking-form');
